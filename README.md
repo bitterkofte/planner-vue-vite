@@ -1,7 +1,7 @@
 # Planner
 Welcome to our Vue.js project that demonstrates how to create a versatile blog application with the ability to perform HTTP requests (GET, POST, PATCH) and a multipage structure. This README provides an overview of the project and instructions on how to set it up.
 
-You can acces a published verion of the project with this [link]().
+You can acces a published verion of the project with this [link](https://planner-vue-vite.vercel.app/).
 
 ## Table of Contents
 + Features
